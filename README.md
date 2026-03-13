@@ -52,5 +52,10 @@ Voltage Ripple (Delta V) = 20mV
 Current Ripple (Delta I) = 0.1A
 
 ## Simulation
+<img width="1158" height="506" alt="Screenshot 2026-02-12 203504" src="https://github.com/user-attachments/assets/91b81f03-3ce2-4c0f-91be-cd357363ba0a" />
+
 ## Output
+<img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/2d14c25b-3988-42c8-9267-645bce10a974" />
+
 ## Result
+Thus the program was stimulated and output was verified succesfully
