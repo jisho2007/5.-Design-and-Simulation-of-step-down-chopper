@@ -2,6 +2,7 @@
 ## AIM
 To design, simulate and analyse a step down chopper using MATLAB Simulink.
 ## APPARATUS REQUIRED
+
 	MATLAB
 ## PROCEDURE
 1.	Open MATLAB and click on the icon for SIMULINK as shown below
